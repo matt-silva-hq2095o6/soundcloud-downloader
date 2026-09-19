@@ -24,4 +24,4 @@ By default, it downloads the track to your current directory using the artist an
 python scdl.py https://soundcloud.com/artist/track-name -o "D:\Music\MyTrack.mp3"
 ```
 
-<!-- refreshed: 2026-09-18 -->
+<!-- refreshed: 2026-09-19 -->
